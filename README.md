@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+# Este es un cambio desde github
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
